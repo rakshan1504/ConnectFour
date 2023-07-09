@@ -1,2 +1,2 @@
 # ConnectFour
-Connect Four Game
+Connect Four Game using HTML, CSS and JavaScript
